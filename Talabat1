@@ -1,16 +1,16 @@
 import java.util.*;
-class TalabatOrders                                          {
+class Talabatpays                                          {
 public static void main(String args[])               {
 Scanner sc = new Scanner(System.in);
-System.out.println(“Enter your paid amount:  ”);
+System.out.println(“Ammount customer paid:  ”);
 int n= sc.nextInt();
-if(orders>=15)                                                  {
-System.out.println("You have 10% off");        }
-else if(orders>=25)                                           {
-System.out.println("You have 20% off");        }
+if(paid>=18omr)                                                  {
+System.out.println("You have 15% off");        }
+else if(paid>=25omr)                                           {
+System.out.println("You have 28% off");        }
 end if                                                                {
 else                                                                   {
 int arr[] = new int(n);
 int am=0;
-System.out.println(“Enter the amout paid:   ”);
+System.out.println(“NO discount:   ”);
 for (int i=o; i<n:i++)
